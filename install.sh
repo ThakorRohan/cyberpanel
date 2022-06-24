@@ -9,4 +9,3 @@ cd /opt
 wget -O installer.sh https://cyberpanel.net/install.sh
 chmod +x installer.sh
 sh installer.sh
-sudo reboot
